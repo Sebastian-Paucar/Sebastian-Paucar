@@ -17,9 +17,9 @@
 <br>
 - 🛡️ I’m interested in ... Informatic security
 <br>
-- ❄️ I’m currently learning ... Informatic security
+- ❄️ I’m currently learning ... Object-oriented programming
 <br>
-- 📫 How to reach me ... jspaucar1@gmail.com
+- 📧 How to reach me ... jspaucar1@gmail.com
 </p>
 <div align="center">
 
