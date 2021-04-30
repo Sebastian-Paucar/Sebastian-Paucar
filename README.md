@@ -14,9 +14,13 @@
 <p align="left">
 <p style = "font-family:courier,arial,helvética;">
 - 👋 Hi, I’m @Sebastian-Paucar
+<br>
 - 👀 I’m interested in ... 
+<br>
 - 🌱 I’m currently learning ...
+<br>
 - 💞️ I’m looking to collaborate on ...
+<br>
 - 📫 How to reach me ...
 </p>
 <div align="center">
