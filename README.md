@@ -11,8 +11,8 @@
 </p>
 <br>
 <h3> <img src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png" width="35px">   Levi_17#0404    </h3>
-<p align="left">
 <p style = "font-family:courier,arial,helvética;">
+<p align="left">
 - 👋 Hi, I’m @Sebastian-Paucar
 <br>
 - 👀 I’m interested in ... 
