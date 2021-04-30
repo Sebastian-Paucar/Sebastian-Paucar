@@ -5,7 +5,7 @@
 <div align="center">	
 <h2>UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE</h2>
 <div align="center">
-<h3>💻 Junior Developer | 🌏 Ecuador | 👩‍💼  Estudiante de Ingenieria en Software.</h3>
+<h3>💻 Junior Developer |<img src="https://img.icons8.com/color/20/000000/ecuador-circular.png"/> Ecuador | 👩‍💼  Estudiante de Ingenieria en Software.</h3>
 <br>
 <img src=https://github-readme-stats.vercel.app/api?username=sebastian-paucar&show_icons=true&theme=tokyonight alt=vanevrb />
 </p>
@@ -15,13 +15,11 @@
 <p align="left">
 - 👋 Hi, I’m @Sebastian-Paucar
 <br>
-- 👀 I’m interested in ... 
+- 🛡️ I’m interested in ... Informatic security
 <br>
-- 🌱 I’m currently learning ...
+- ❄️ I’m currently learning ... Informatic security
 <br>
-- 💞️ I’m looking to collaborate on ...
-<br>
-- 📫 How to reach me ...
+- 📫 How to reach me ... jspaucar1@gmail.com
 </p>
 <div align="center">
 
