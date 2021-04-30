@@ -6,7 +6,7 @@
 <h2>UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE.</h2>
 <div align="center">
 <h3>💻 Junior Developer | 🌏 Ecuador | 👩‍💼  Estudiante de Ingenieria en Software.</h3>
-<p align="ride">
+<p align="left">
 <br>
 - 👋 Hi, I’m @Sebastian-Paucar
 - <br>
