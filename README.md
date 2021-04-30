@@ -15,11 +15,11 @@
 <p align="left">
 - 👋 Hi, I’m @Sebastian-Paucar
 <br>
-- 🛡️ I’m interested in ... Informatic security
+- 🛡️ I’m interested in ... <h3>Informatic security</h3>
 <br>
-- ❄️ I’m currently learning ... Object-oriented programming
+- ❄️ I’m currently learning ... <h3>Object-oriented programming</h3>
 <br>
-- 📧 How to reach me ... jspaucar1@gmail.com
+- 📧 How to reach me ... <h3>jspaucar1@gmail.com</h3>
 </p>
 <div align="center">
 
