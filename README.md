@@ -6,6 +6,10 @@
 <h2>UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE.</h2>
 <div align="center">
 <h3>💻 Junior Developer | 🌏 Ecuador | 👩‍💼  Estudiante de Ingenieria en Software.</h3>
+<br>
+<img src=https://github-readme-stats.vercel.app/api?username=sebastian-paucar&show_icons=true&theme=tokyonight alt=vanevrb />
+</p>
+<br>
 <p align="left">
 <br>
 - 👋 Hi, I’m @Sebastian-Paucar
