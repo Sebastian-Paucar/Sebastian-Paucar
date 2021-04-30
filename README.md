@@ -12,17 +12,13 @@
 <br>
 <h3> <img src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png" width="35px">   Levi_17#0404    </h3>
 <p align="left">
-<br>
+<p style = "font-family:courier,arial,helvética;">
 - 👋 Hi, I’m @Sebastian-Paucar
-- <br>
-- 👀 I’m interested in ...
-- <br>
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...
-- <br>
 - 💞️ I’m looking to collaborate on ...
-- <br>
 - 📫 How to reach me ...
-<br>
+</p>
 <div align="center">
 
 </div>
