@@ -13,13 +13,13 @@
 <h3> <img src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png" width="35px">   Levi_17#0404    </h3>
 <p style = "font-family:courier,arial,helvética;">
 <p align="left">
-- 👋 Hi, I’m @Sebastian-Paucar
+  - 👋 Hi, I’m <b>@Sebastian-Paucar</b>
 <br>
-- 🛡️ I’m interested in ... <h3>Informatic security</h3>
+- 🛡️ I’m interested in ... <b>Informatic security</b>
 <br>
-- ❄️ I’m currently learning ... <h3>Object-oriented programming</h3>
+  - ❄️ I’m currently learning ... <b>Object-oriented programming</b>
 <br>
-- 📧 How to reach me ... <h3>jspaucar1@gmail.com</h3>
+  - 📧 How to reach me ... <b>jspaucar1@gmail.com</b>
 </p>
 <div align="center">
 
