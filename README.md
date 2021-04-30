@@ -10,6 +10,7 @@
 <img src=https://github-readme-stats.vercel.app/api?username=sebastian-paucar&show_icons=true&theme=tokyonight alt=vanevrb />
 </p>
 <br>
+<h3>  <img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png" width="35px">   Levi_17#0404    </h3>
 <p align="left">
 <br>
 - 👋 Hi, I’m @Sebastian-Paucar
@@ -23,7 +24,7 @@
 - 📫 How to reach me ...
 <br>
 <div align="center">
-<h3>  <img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png" width="35px">   Levi_17#0404    </h3>
+
 </div>
 <!---
 Sebastian-Paucar/Sebastian-Paucar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
