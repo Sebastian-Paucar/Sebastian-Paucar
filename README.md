@@ -10,7 +10,7 @@
 <img src=https://github-readme-stats.vercel.app/api?username=sebastian-paucar&show_icons=true&theme=tokyonight alt=vanevrb />
 </p>
 <br>
-<h3> <img src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png" width="35px">   Levi_17#0404    </h3>
+<h3> <img src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png" width="35px">  Levi_17#4035   </h3>
 <p style = "font-family:courier,arial,helvética;">
 <p align="left">
   - 👋 Hi, I’m <b><i>@Sebastian-Paucar</i></b>
