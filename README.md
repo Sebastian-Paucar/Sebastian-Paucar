@@ -5,7 +5,7 @@
 <div align="center">	
 <h2>UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE</h2>
 <div align="center">
-<h3>💻 Junior Developer |<img src="https://img.icons8.com/color/20/000000/ecuador-circular.png"/> Ecuador |👦🏻 💼  Estudiante de Ingenieria en Software.</h3>
+<h3>💻 Junior Developer |<img src="https://img.icons8.com/color/20/000000/ecuador-circular.png"/> Ecuador |👦🏻 💼 Ingeniero de Software.</h3>
 <br>
 <img src=https://github-readme-stats.vercel.app/api?username=sebastian-paucar&show_icons=true&theme=tokyonight alt=vanevrb />
 </p>
